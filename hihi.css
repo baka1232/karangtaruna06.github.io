@@ -1,0 +1,11 @@
+.gambar{
+		height: 300px;
+		width: 500px;
+}
+}
+h2 {
+  -moz-text-decoration-line: underline overline;
+  text-decoration-line: underline overline;
+  -moz-text-decoration-color: black;
+  text-decoration-color: orange;
+}
